@@ -1,0 +1,59 @@
+
+.faf
+{
+  background-image: url("https://64.media.tumblr.com/28e12b4a016570b2fbff5f0726313959/tumblr_piviw9S54B1snbyiqo1_540.gif");
+  background-size: cover;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 15px;
+  height: 1.5cm;
+  width:6cm ;
+  color: black;
+  background-color: rgb(255,255,255,0.2);
+  box-shadow:
+  3px 2.8px 2.2px rgba(0, 0, 0, 0.053),
+  7.2px 6.7px 5.3px rgba(0, 0, 0, 0.077),
+  13.6px 12.5px 10px rgba(0, 0, 0, 0.095),
+  24.3px 22.3px 17.9px rgba(0, 0, 0, 0.113),
+  45.5px 41.8px 33.4px rgba(0, 0, 0, 0.137),
+  109px 100px 80px rgba(0, 0, 0, 0.19)
+;
+}
+.div1
+{
+  border-radius: 10px;
+  height: 8cm;
+  width: 10cm;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color:rgb(255,255,255,0.2);
+  box-shadow:
+  3px 2.8px 2.2px rgba(90, 82, 82, 0.053),
+  7.2px 6.7px 5.3px rgba(0, 0, 0, 0.077),
+  13.6px 12.5px 10px rgba(0, 0, 0, 0.095),
+  24.3px 22.3px 17.9px rgba(0, 0, 0, 0.113),
+  45.5px 41.8px 33.4px rgba(0, 0, 0, 0.137),
+  109px 100px 80px rgba(0, 0, 0, 0.19)
+;
+}
+.rrr{
+  color: #FFFDE4;
+  border-radius: 10px;
+  cursor: pointer;
+  background-color: black;
+}
+.rrr:hover{
+  color: black;
+  background-color: rgb(251, 253, 253);
+  transition-duration: 2s;
+}
